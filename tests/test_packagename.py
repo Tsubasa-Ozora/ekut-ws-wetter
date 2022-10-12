@@ -1,2 +1,0 @@
-import youpackagename
-import pytest
